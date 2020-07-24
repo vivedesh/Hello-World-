@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 I'm watching you!
-
-First push!
+First push???
+THIS FILE WAS EDITED BY SPACEVEDESH!
+>>>>>>> fp_edit
