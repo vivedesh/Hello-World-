@@ -1,3 +1,6 @@
 First push!
 
-First push is already Second ;))
+First push is already Second!
+
+Second push is already Third!
+
