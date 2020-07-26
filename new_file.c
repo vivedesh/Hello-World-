@@ -1,3 +1,5 @@
+#include<strdio>
+
 void main()
 {
 }
