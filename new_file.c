@@ -1,6 +1,8 @@
 #include<stdio.h>
 
-void main()
+int main()
 {
 	// TODO: write the function!
+	printf("Hey!\n");
+	return (0);
 }
